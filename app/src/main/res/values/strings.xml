@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lesson3ScrollViewListView</string>
+    <string name="hello_world">Hello List View</string>
+
+</resources>
